@@ -1,0 +1,12 @@
+{
+  "name": "require-js-ways",
+  "version": "0.1.0",
+  "description": "Experimenting with Require JS",
+  "repository": "",
+  "author": "",
+  "license": "BSD",
+  "dependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-requirejs": "~0.4.1"
+  }
+}

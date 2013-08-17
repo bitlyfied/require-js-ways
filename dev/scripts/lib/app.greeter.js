@@ -1,5 +1,5 @@
 define(function(require){
-	require('scripts/lib/app.js');
+	require('lib/app');
 
 	App.greeter = {
 		greet: function(greetee){

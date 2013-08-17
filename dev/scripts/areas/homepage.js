@@ -1,5 +1,5 @@
 define(function(require){
-	require('scripts/lib/app.carousel.js');
+	require('lib/app.carousel');
 
 	$(function(){
 		App.carousel.helloMe();	

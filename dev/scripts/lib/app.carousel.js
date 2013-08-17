@@ -1,6 +1,6 @@
 define(function(require){
-	require('scripts/lib/app.js');
-	require('scripts/lib/app.greeter.js');
+	require('lib/app');
+	require('lib/app.greeter');
 
 	App.carousel = {
 		helloMe: function(){
